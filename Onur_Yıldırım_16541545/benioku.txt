@@ -1,0 +1,9 @@
+Sql veri tabaný kullandým veri tabaným local çalýþmasý için eklentiye gerek yok.
+
+yonetýcý giriþ için
+Id:yonetýcý
+Þifre:123456
+
+Personel için
+Id:personel
+Þifre:123456
